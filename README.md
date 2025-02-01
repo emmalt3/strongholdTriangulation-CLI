@@ -19,7 +19,7 @@ source $HOME/.cargo/env
 Clone the repositroy and install:
 ```sh
 git clone https://github.com/emmalt3/triangulateStronghold-CLI.git
-cd triangulateStronghold
+cd triangulateStronghold-CLI
 cargo install --path .
 ```
 
