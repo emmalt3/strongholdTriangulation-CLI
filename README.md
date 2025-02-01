@@ -25,7 +25,7 @@ cargo install --path .
 
 Run the CLI tool:
 ```sh
-triangulateStronghold
+$ triangulateStronghold
 ```
 
 ## Windows
@@ -39,7 +39,7 @@ cargo install --git https://github.com/emmalt3/triangulateStronghold-CLI.git
 
 Run the CLI tool:
 ```ps
-triangulateStronghold
+$ triangulateStronghold
 ```
 
 # Usage
