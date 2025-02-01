@@ -1,5 +1,6 @@
 /target/
 *.pdb
+.pdb
 **/*.rs.bk
 **/*.rlib
 Cargo.lock
@@ -43,4 +44,3 @@ shada/*
 *.pyo
 *.pyd
 node_modules/
-target/
