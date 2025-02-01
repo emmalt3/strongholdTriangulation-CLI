@@ -70,7 +70,9 @@ stronghold triangulated at: x = 2399, z = 5235
 Want to improve this tool? Contributions are welcome!
 
 1. Fork the repo
+
 2. Make your changes
+
 3. Submit a pull request
 
 # License
